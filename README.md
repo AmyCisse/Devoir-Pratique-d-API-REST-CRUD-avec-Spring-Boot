@@ -92,9 +92,9 @@ Format des erreurs : `{ "code": 400, "msg": "Le matricule est obligatoire." }`
 POST /etudiants
 {
   "matricule": "ET001",
-  "prenom": "Moussa",
-  "nom": "Diallo",
-  "email": "moussa@universite.sn",
+  "prenom": "Amy",
+  "nom": "Cisse",
+  "email": "amy@universite.sn",
   "dateNaissance": "2003-04-15",
   "lieuNaissance": "Thiès",
   "nationalite": "Sénégalaise"
